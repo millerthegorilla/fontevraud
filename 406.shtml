@@ -1,0 +1,30 @@
+<!-- EIS 406 HOLDING PAGE v0.001 start -->
+<html>
+<head>
+<title><!--#echo var="SERVER_NAME" -->: 406 Not Acceptable</title>
+</head>
+<style>
+html, body, td, tr, th {
+	background-color: white;
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 10px;
+}
+
+th {
+	font-weight: bold;
+}
+</style>
+<body>
+<table border="0" cellspacing="1" cellpadding="1">
+<tr>
+	<td valign="top" align="center">
+		<img src="images/noflash/logo.png">
+		<p><h1>406: Not Acceptable</h1></p>
+
+		<p>Sorry, the page you requested is not currently available. This is because the servers security system has interpreted your request as an attack on the server.  This is generally because you are either a. attacking the server or b. your browser is misconfigured or c. the server is experiencing problems. Try again later or click <a href="http://www.sunshadeblinds.je">here</a> to return to the main page.</p>
+		
+	</td>
+</tr>
+</table>
+</body>
+</html>

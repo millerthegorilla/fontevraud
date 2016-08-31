@@ -1,0 +1,20 @@
+<panoramas>
+	<image path='images/panoramas/pan1.jpg'>
+		<tween type='blurOut' duration='4' ease='Sine.easeInOut'></tween>
+	</image>
+	<image path='images/panoramas/pan5.jpg'>
+		<tween type='blurOut' duration='4' ease='Sine.easeInOut'></tween>
+	</image>
+	<image path='images/panoramas/pan3.jpg'>
+		<tween type='blurOut' duration='4' ease='Sine.easeInOut'></tween>
+	</image>
+	<image path='images/panoramas/pan4.jpg'>
+		<tween type='blurOut' duration='4' ease='Sine.easeInOut'></tween>
+	</image>
+	<image path='images/panoramas/pan2.jpg'>
+		<tween type='blurOut' duration='4' ease='Sine.easeInOut'></tween>
+	</image>
+	<image path='images/panoramas/pan6.jpg'>
+		<tween type='blurOut' duration='4' ease='Sine.easeInOut'></tween>
+	</image>
+</panoramas>

@@ -1,0 +1,39 @@
+<!-- EIS 404 HOLDING PAGE v0.001 start -->
+<html>
+<head>
+<title><!--#echo var="SERVER_NAME" -->: 404 Not Found</title>
+</head>
+<style>
+html, body, td, tr, th {
+	background-color: white;
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 10px;
+}
+
+th {
+	font-weight: bold;
+}
+</style>
+<body>
+<table border="0" cellspacing="1" cellpadding="1">
+<tr>
+	<td valign="top" align="center">
+		<img src="images/noflash/logo.png">
+		
+		<p><h1>404: Page Not Found</h1></p>
+
+		<p>Sorry, the page you requested has not been found. This may be because the link you followed is out of date or inaccurate.</p>
+
+		<script type="text/javascript">
+			var GOOG_FIXURL_LANG = 'en';
+			var GOOG_FIXURL_SITE = 'http://www.sunshadeblinds.je/';
+		</script>
+		<script type="text/javascript" 
+			src="http://linkhelp.clients.google.com/tbproxy/lh/wm/fixurl.js">
+		</script>
+
+	</td>
+</tr>
+</table>
+</body>
+</html>

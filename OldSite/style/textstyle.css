@@ -1,0 +1,28 @@
+a
+{
+	text-decoration: underline;
+	color: #0077FF;
+}
+a:hover
+{
+	text-decoration: underline;
+	color: #FF7700;
+}
+/**/
+.normal
+{
+	font-size:16px;
+	color:#000000;
+}
+/**/
+.medium
+{
+	font-size:14px;
+	color:#000000;
+}
+/**/
+.large
+{
+	font-size:20px;
+	color:#000000;
+}

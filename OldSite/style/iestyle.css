@@ -1,0 +1,11 @@
+#content {
+	background-image: none;
+	filter:progid:DXimageTransform.Microsoft.AlphaimageLoader(src='/images/noflash/backtrans.png', sizingMethod='fixed');
+	position: absolute;
+	z-index: 2;
+	width:90%;
+	height:90%;
+	left:5%;
+	top:5%;
+	color:#CCCCCC;
+}

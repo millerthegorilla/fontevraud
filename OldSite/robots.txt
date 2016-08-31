@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /php/
+Disallow: /admin/
+Disallow: /script/
+Disallow: /style/
+Disallow: /swfaddress/
+Disallow: /swfobject/
+Disallow: /*.swf*
+Disallow: /*.php*
+Disallow: *.txt

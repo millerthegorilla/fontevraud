@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>http://www.fontevraud.co.uk/</loc>
+  <priority>1.00</priority>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.fontevraud.co.uk/#/flacachette/</loc>
+  <priority>0.80</priority>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.fontevraud.co.uk/#/flagoupiliere/</loc>
+  <priority>0.80</priority>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.fontevraud.co.uk/#/maplocal/</loc>
+  <priority>0.60</priority>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.fontevraud.co.uk/#/mapfrance/</loc>
+  <priority>0.60</priority>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.fontevraud.co.uk/#/bhow/</loc>
+  <priority>0.60</priority>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.fontevraud.co.uk/#/bget/</loc>
+  <priority>0.70</priority>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.fontevraud.co.uk/#/bwho/</loc>
+  <priority>0.70</priority>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.fontevraud.co.uk/#/linksfont/</loc>
+  <priority>0.60</priority>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.fontevraud.co.uk/#/linkschat/</loc>
+  <priority>0.60</priority>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.fontevraud.co.uk/#/linkstowns/</loc>
+  <priority>0.60</priority>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.fontevraud.co.uk/#/linksgolf/</loc>
+  <priority>0.60</priority>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.fontevraud.co.uk/#/linkswine/</loc>
+  <priority>0.60</priority>
+  <changefreq>monthly</changefreq>
+</url>
+</urlset>

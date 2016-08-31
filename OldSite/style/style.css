@@ -1,0 +1,104 @@
+/* hide from ie on mac \*/
+html {
+	height: 100%;
+	margin:0;
+	overflow: hidden;
+}
+body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	font: 86% Arial, sans-serif;
+}
+/* end hide */
+#contents {
+	width:100%;
+	height:100%;
+	position: absolute;
+	left: 0;
+	top: 0;
+	z-index: 0;
+	overflow:auto;
+}
+#backimage
+{
+	position: absolute;
+	width: 80%;
+	height: 18%;
+	top:2%;
+	left:12%;
+	z-index:0;
+}
+#content {
+	position: absolute;
+	z-index: 2;
+	width:90%;
+	height:90%;
+	left:5%;
+	top:5%;
+}
+#title{
+	color:#FFCC33;
+	position:absolute;
+	left:13%;
+	top:0%;
+}
+#links{
+	position:absolute;
+	left:8%;
+	top:34%;
+	width:20%;
+	color:#000000;
+}
+#getflash{
+	background-image: url("/images/noflash/backtrans.png");
+	color: #DD0022;
+	font-weight: bold;
+	position:absolute;
+	top:25%;
+	left:75%;
+	width:18%;
+	z-index:3;
+}
+#getflashtext{
+	margin:5px;
+	margin-left:7px;
+}
+#gflogo{
+	width:60%;
+	height:40px;
+	margin-left:15%;
+}
+#allthetext
+{
+	color: #000000;
+	position: absolute;
+	top:45%;
+	left:31%;
+	width:44%;
+}
+.text
+{
+	color: #000000;
+}
+#subpage
+{
+	margin-left:20px;
+}
+.anchors
+{
+	color: #0000EE;
+}
+.images
+{
+	height:100%;
+	width:100%;
+}
+h1
+{
+	color:#FFCC33;
+}
+
+#flash{
+	left:200;
+}

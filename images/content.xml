@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<content AutoPlay="true" Delay="4000" MaxThumbs="8" ThumbSpace="1" Border="15">
+	<gallery Name="All images">
+	<image Thumb="Gallery2/thumb1.jpg" Large="Gallery2/image1.jpg" Caption="La Cachette" Colour="2e0211">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>La Cachette</b></font><br>La Cachette was completely restored in 2007/2008 to an extremely high standard. With two bedrooms upstairs it sleeps 4 comfortably.  In this set of images are external and internal images of the cottage.]]></copy>
+    </image>
+    <image Thumb="Gallery1/thumb10.jpg" Large="Gallery1/image10.jpg" Caption="La Goupiliere across the garden that is shared with the owner's cottage, who is in residence only occasionally during the year." Colour="293640">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>La Goupiliere's front view</b></font>La Goupiliere across the garden that is shared with the owner's cottage, who is in residence only occasionally during the year.]]></copy>
+    </image>
+    <image Thumb="Gallery2/thumb2.jpg" Large="Gallery2/image2.jpg" Caption="La Cachette front 2" Colour="181f0a">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>La Cachette front view 2</b></font><br>La Cachette has a large car park and a sloped lawn at the front.  The carpark abuts a gabion wall in which there are two tuffaud caves, a traditional feature of the area.<br>The caves were most likely used to store wine, but are now locked for safety reasons.<br>There are still many caves in the area that can be visited.]]></copy>
+    </image>
+    <image Thumb="Gallery1/thumb3.jpg" Large="Gallery1/image3.jpg" Caption="La Goupiliere Front view 3" Colour="440002">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>View to the orchard and car park</b></font><br>Here you can see across the bridge into the carpark which is in the center of an orchard.]]></copy>
+    </image>
+    <image Thumb="Gallery2/thumb3.jpg" Large="Gallery2/image3.jpg" Caption="La Cachette garden" Colour="440002">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>The front garden</b></font><br>There is a front garden and a back garden at La Cachette.]]></copy>
+    </image>
+    <image Thumb="Gallery1/thumb16.jpg" Large="Gallery1/image16.jpg" Caption="La Goupiliere's rose bush in full bloom" Colour="293640">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>La Goupiliere's rose bush in full bloom</b></font><br>La Goupiliere has two gardens and an orchard to relax in.]]></copy>
+    </image>
+    <image Thumb="Gallery2/thumb4.jpg" Large="Gallery2/image4.jpg" Caption="La Cachette cottage" Colour="293640">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>The cottage</b></font><br>A view of La Cachette showing the cottage, both gardens and rue des Potiers behind.  Across the road is La Goupiliere.]]></copy>
+    </image>
+    <image Thumb="Gallery2/thumb5.jpg" Large="Gallery2/image5.jpg" Caption="The back garden" Colour="0D2805">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>The back garden</b></font><br>The back garden has a terrace and dining area that is entered into through the french windows from the lounge.]]></copy>
+    </image>
+    <image Thumb="Gallery2/thumb6.jpg" Large="Gallery2/image6.jpg" Caption="The back garden" Colour="2e0211">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>The back garden</b></font><br>The back garden again.  The village of Fontevraud L'Abbaye is set in the countryside and is a quiet place to relax.]]></copy>
+    </image>
+    <image Thumb="Gallery2/thumb7.jpg" Large="Gallery2/image7.jpg" Caption="The kitchen" Colour="181f0a">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>The kitchen</b></font><br>The fully equipped kitchen doubles as a dining room, and has a gas cooker.  The front door opens into the kitchen.]]></copy>
+    </image>
+    <image Thumb="Gallery2/thumb8.jpg" Large="Gallery2/image8.jpg" Caption="The Kitchen" Colour="440002">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>The kitchen in La Cachette</b></font><br>The kitchen has all the conveniences that you need to cater for your holiday comfortably including a dishwasher to save you time.]]></copy>
+    </image>
+    <image Thumb="Gallery1/thumb6.jpg" Large="Gallery1/image6.jpg" Caption="Kitchen Diner 2" Colour="0D2805">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>Kitchen Diner at La Goupiliere</b></font><br>The kitchen has recently been completely refitted and has a new window that looks out over the orchard. Click <a href="http://www.font.co.uk/flagoupiliere/" target="_self">here</a> for the list of facilities at La Goupiliere.]]></copy>
+    </image>
+    <image Thumb="Gallery2/thumb9.jpg" Large="Gallery2/image9.jpg" Caption="The sitting room" Colour="293640">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>The staircase</b></font><br>This is a view from the sitting room into the kitchen showing the comfortable sofa and the stairs.]]></copy>
+    </image>
+    <image Thumb="Gallery2/thumb10.jpg" Large="Gallery2/image10.jpg" Caption="The sitting room" Colour="0D2805">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>The sitting room</b></font><br>The comfortable sitting room has a tv/dvd with British satellite so you can keep up with your favourite shows.]]></copy>
+    </image>
+    <image Thumb="Gallery1/thumb8.jpg" Large="Gallery1/image8.jpg" Caption="Bedroom 1" Colour="170200">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>View of one bedroom</b></font><br>This is one of the spacious well appointed bedrooms. Both bedrooms sleep 2 in single beds.]]></copy>
+    </image>
+    <image Thumb="Gallery2/thumb11.jpg" Large="Gallery2/image11.jpg" Caption="Bedroom 1" Colour="2e0211">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>Bedroom 1</b></font><br>Both bedrooms have single beds and are comfortably appointed and well lit.]]></copy>
+    </image>
+    <image Thumb="Gallery2/thumb12.jpg" Large="Gallery2/image12.jpg" Caption="Bedroom 2" Colour="181f0a">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>Bedroom 2</b></font><br>Bedroom 2 is slighty larger and has a second door that opens onto the carpark.]]></copy>
+    </image>
+    <image Thumb="Gallery2/thumb13.jpg" Large="Gallery2/image13.jpg" Caption="La Cachette front view" Colour="440002">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>La Cachette front view</b></font><br>La Cachette, in Fontevraud L'Abbaye is just south of the river Loire and the weather in summer can be fantastic.]]></copy>
+    </image>
+    <image Thumb="Gallery2/thumb14.jpg" Large="Gallery2/image14.jpg" Caption="La Cachette front view" Colour="293640">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>La Cachette front view</b></font><br>A lovely, well appointed cottage that sleeps 4, with a UNESCO world heritage site in the quiet village; a perfect place to explore the beautiful chateaux and countryside of the Loire.]]></copy>
+    </image>
+    <image Thumb="Gallery1/thumb2.jpg" Large="Gallery1/image2.jpg" Caption="La Goupiliere Front view 2" Colour="181f0a">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>La Goupiliere's front view</b></font><br> La Goupiliere opens out onto the garden that it shares with the property owner's holiday cottage.]]></copy>
+    </image>
+    <image Thumb="Gallery1/thumb4.jpg" Large="Gallery1/image4.jpg" Caption="La Goupiliere Side view" Colour="3a3f36">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>La Goupiliere Side view</b></font><br>This is the side view of La Goupiliere looking across its own garden which has a gate across the entrance in case you have small children.]]></copy>
+    </image>
+    <image Thumb="Gallery1/thumb5.jpg" Large="Gallery1/image5.jpg" Caption="Kitchen Diner 1" Colour="2e0211">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>Kitchen Diner at La Goupiliere</b></font><br>The kitchen diner at la Goupiliere is spacious and well lit by the french windows through which you can see the shared garden.]]></copy>
+    </image>
+    <image Thumb="Gallery1/thumb7.jpg" Large="Gallery1/image7.jpg" Caption="The Lounge" Colour="3D3E42">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>The Lounge</b></font><br>The Lounge has satellite tv, dvd and a woodburning stove for those colder nights. If you feel like a cosy night in then this is the place to be.]]></copy>
+    </image>
+    <image Thumb="Gallery1/thumb9.jpg" Large="Gallery1/image9.jpg" Caption="Detail of bedroom 1" Colour="333333">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>View of one bedroom</b></font><br>The bedroom has a tall ceiling which is supported by oak beams.]]></copy>
+    </image>
+    <image Thumb="Gallery1/thumb11.jpg" Large="Gallery1/image11.jpg" Caption="La Goupiliere's front view" Colour="293640">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>La Goupiliere's front view</b></font><br>La Goupiliere has two gardens that can be used, this is the front garden, which has a washing line to complement the washing machine.]]></copy>
+    </image>
+    <image Thumb="Gallery1/thumb12.jpg" Large="Gallery1/image12.jpg" Caption="La Goupiliere viewed from rue des Potiers" Colour="293640">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>La Goupiliere viewed from rue des Potiers</b></font><br>La Goupiliere viewed across the back garden from rue des Potiers.]]></copy>
+    </image>
+    <image Thumb="Gallery1/thumb14.jpg" Large="Gallery1/image14.jpg" Caption="La Goupiliere's bathroom" Colour="293640">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>La Goupiliere's bathroom</b></font><br>facilities are all very modern, having been refurbished only a few years ago.]]></copy>
+    </image>
+    <image Thumb="Gallery1/thumb15.jpg" Large="Gallery1/image15.jpg" Caption="La Goupiliere's shower" Colour="293640">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>La Goupiliere's shower</b></font><br>La Goupiliere has a large and acommodating shower in place of a bath.]]></copy>
+    </image>
+    <image Thumb="Gallery1/thumb1.jpg" Large="Gallery1/image1.jpg" Caption="La Goupiliere across the stream" Colour="293640">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>La Goupiliere across the stream</b></font><br>La Goupiliere is accessed from the carpark in the orchard by a bridge over a small stream that feeds, eventually, into the Loire.]]></copy>
+    </image>
+  </gallery>
+  <gallery Name="La Goupiliere">
+    <image Thumb="Gallery1/thumb10.jpg" Large="Gallery1/image10.jpg" Caption="La Goupiliere across the garden that is shared with the owner's cottage, who is in residence only occasionally during the year." Colour="293640">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>La Goupiliere's front view</b></font><br>La Goupiliere across the garden that is shared with the owner's cottage, who is in residence only occasionally during the year.]]></copy>
+    </image>
+    <image Thumb="Gallery1/thumb2.jpg" Large="Gallery1/image2.jpg" Caption="La Goupiliere Front view 2" Colour="181f0a">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>La Goupiliere's front view</b></font><br>La Goupiliere opens out onto the garden that it shares with the property owner's holiday cottage.]]></copy>
+    </image>
+    <image Thumb="Gallery1/thumb3.jpg" Large="Gallery1/image3.jpg" Caption="La Goupiliere Front view 3" Colour="440002">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>View to the orchard and car park</b></font><br>Here you can see across the bridge into the carpark which is in the center of an orchard.]]></copy>
+    </image>
+    <image Thumb="Gallery1/thumb4.jpg" Large="Gallery1/image4.jpg" Caption="La Goupiliere Side view" Colour="3a3f36">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>La Goupiliere Side view</b></font><br>This is the side view of La Goupiliere looking across its own garden which has a gate across the entrance in case you have small children.]]></copy>
+    </image>
+    <image Thumb="Gallery1/thumb5.jpg" Large="Gallery1/image5.jpg" Caption="Kitchen Diner 1" Colour="2e0211">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>Kitchen Diner at La Goupiliere</b></font><br>The kitchen diner at la Goupiliere is spacious and well lit by the french windows through which you can see the shared garden.]]></copy>
+    </image>
+    <image Thumb="Gallery1/thumb6.jpg" Large="Gallery1/image6.jpg" Caption="Kitchen Diner 2" Colour="0D2805">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>Kitchen Diner at La Goupiliere</b></font><br>The kitchen has recently been completely refitted and has a new window that looks out over the orchard. Click <a href="http://www.font.co.uk/flagoupiliere/" target="_self">here</a> for the list of facilities at La Goupiliere.]]></copy>
+    </image>
+    <image Thumb="Gallery1/thumb7.jpg" Large="Gallery1/image7.jpg" Caption="The Lounge" Colour="3D3E42">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>The Lounge</b></font><br>The Lounge has satellite tv, dvd and a woodburning stove for those colder nights. If you feel like a cosy night in then this is the place to be.]]></copy>
+    </image>
+    <image Thumb="Gallery1/thumb8.jpg" Large="Gallery1/image8.jpg" Caption="Bedroom 1" Colour="170200">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>View of one bedroom</b></font><br>This is one of the spacious well appointed bedrooms. Both bedrooms sleep 2 in single beds.]]></copy>
+    </image>
+    <image Thumb="Gallery1/thumb9.jpg" Large="Gallery1/image9.jpg" Caption="Detail of bedroom 1" Colour="333333">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>View of one bedroom</b></font><br>The bedroom has a tall ceiling which is supported by oak beams.]]></copy>
+    </image>
+    <image Thumb="Gallery1/thumb1.jpg" Large="Gallery1/image1.jpg" Caption="La Goupiliere across the stream" Colour="293640">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>La Goupiliere across the stream</b></font><br>La Goupiliere is accessed from the carpark in the orchard by a bridge over a small stream that feeds, eventually, into the Loire.]]></copy>
+    </image>
+    <image Thumb="Gallery1/thumb11.jpg" Large="Gallery1/image11.jpg" Caption="La Goupiliere's front view" Colour="293640">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>La Goupiliere's front view</b></font><br>La Goupiliere has two gardens that can be used, this is the front garden, which has a washing line to complement the washing machine.]]></copy>
+    </image>
+    <image Thumb="Gallery1/thumb12.jpg" Large="Gallery1/image12.jpg" Caption="La Goupiliere viewed from rue des Potiers" Colour="293640">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>La Goupiliere viewed from rue des Potiers</b></font><br>La Goupiliere viewed across the back garden from rue des Potiers.]]></copy>
+    </image>
+    <image Thumb="Gallery1/thumb14.jpg" Large="Gallery1/image14.jpg" Caption="La Goupiliere's bathroom" Colour="293640">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>La Goupiliere's bathroom</b></font><br>facilities are all very modern, having been refurbished only a few years ago.]]></copy>
+    </image>
+    <image Thumb="Gallery1/thumb15.jpg" Large="Gallery1/image15.jpg" Caption="La Goupiliere's shower" Colour="293640">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>La Goupiliere's shower</b></font><br>La Goupiliere has a large and acommodating shower in place of a bath.]]></copy>
+    </image>
+    <image Thumb="Gallery1/thumb16.jpg" Large="Gallery1/image16.jpg" Caption="La Goupiliere's rose bush in full bloom" Colour="293640">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>La Goupiliere's rose bush in full bloom</b></font><br>La Goupiliere has two gardens and an orchard to relax in.]]></copy>
+    </image>
+  </gallery>
+  <gallery Name="La Cachette">
+    <image Thumb="Gallery2/thumb1.jpg" Large="Gallery2/image1.jpg" Caption="La Cachette" Colour="2e0211">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>La Cachette</b></font><br>La Cachette was completely restored in 2007/2008 to an extremely high standard. With two bedrooms upstairs it sleeps 4 comfortably.  In this set of images are external and internal images of the cottage.]]></copy>
+    </image>
+    <image Thumb="Gallery2/thumb2.jpg" Large="Gallery2/image2.jpg" Caption="La Cachette front 2" Colour="181f0a">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>La Cachette front view 2</b></font><br>La Cachette has a large car park and a sloped lawn at the front.  The carpark abuts a gabion wall in which there are two tuffaud caves, a traditional feature of the area.<br>The caves were most likely used to store wine, but are now locked for safety reasons.<br>There are still many caves in the area that can be visited.]]></copy>
+    </image>
+    <image Thumb="Gallery2/thumb3.jpg" Large="Gallery2/image3.jpg" Caption="La Cachette garden" Colour="440002">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>The front garden</b></font><br>There is a front garden and a back garden at La Cachette.]]></copy>
+    </image>
+    <image Thumb="Gallery2/thumb4.jpg" Large="Gallery2/image4.jpg" Caption="La Cachette cottage" Colour="293640">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>The cottage</b></font><br>A view of La Cachette showing the cottage, both gardens and rue des Potiers behind.  Across the road is La Goupiliere.]]></copy>
+    </image>
+    <image Thumb="Gallery2/thumb5.jpg" Large="Gallery2/image5.jpg" Caption="The back garden" Colour="0D2805">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>The back garden</b></font><br>The back garden has a terrace and dining area that is entered into through the french windows from the lounge.]]></copy>
+    </image>
+    <image Thumb="Gallery2/thumb6.jpg" Large="Gallery2/image6.jpg" Caption="The back garden" Colour="2e0211">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>The back garden</b></font><br>The back garden again.  The village of Fontevraud L'Abbaye is set in the countryside and is a quiet place to relax.]]></copy>
+    </image>
+    <image Thumb="Gallery2/thumb7.jpg" Large="Gallery2/image7.jpg" Caption="The kitchen" Colour="181f0a">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>The kitchen</b></font><br>The fully equipped kitchen doubles as a dining room, and has a gas cooker.  The front door opens into the kitchen.]]></copy>
+    </image>
+    <image Thumb="Gallery2/thumb8.jpg" Large="Gallery2/image8.jpg" Caption="The Kitchen" Colour="440002">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>The kitchen in La Cachette</b></font><br>The kitchen has all the conveniences that you need to cater for your holiday comfortably including a dishwasher to save you time.]]></copy>
+    </image>
+    <image Thumb="Gallery2/thumb9.jpg" Large="Gallery2/image9.jpg" Caption="The sitting room" Colour="293640">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>The staircase</b></font><br>This is a view from the sitting room into the kitchen showing the comfortable sofa and the stairs.]]></copy>
+    </image>
+    <image Thumb="Gallery2/thumb10.jpg" Large="Gallery2/image10.jpg" Caption="The sitting room" Colour="0D2805">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>The sitting room</b></font><br>The comfortable sitting room has a tv/dvd with British satellite so you can keep up with your favourite shows.]]></copy>
+    </image>
+    <image Thumb="Gallery2/thumb11.jpg" Large="Gallery2/image11.jpg" Caption="Bedroom 1" Colour="2e0211">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>Bedroom 1</b></font><br>Both bedrooms have single beds and are comfortably appointed and well lit.]]></copy>
+    </image>
+    <image Thumb="Gallery2/thumb12.jpg" Large="Gallery2/image12.jpg" Caption="Bedroom 2" Colour="181f0a">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>Bedroom 2</b></font><br>Bedroom 2 is slighty larger and has a second door that opens onto the carpark.]]></copy>
+    </image>
+    <image Thumb="Gallery2/thumb13.jpg" Large="Gallery2/image13.jpg" Caption="La Cachette front view" Colour="440002">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>La Cachette front view</b></font><br>La Cachette, in Fontevraud L'Abbaye is just south of the river Loire and the weather in summer can be fantastic.]]></copy>
+    </image>
+    <image Thumb="Gallery2/thumb14.jpg" Large="Gallery2/image14.jpg" Caption="La Cachette front view" Colour="293640">
+      <copy><![CDATA[<font color="#FFFFFF" size="15"><b>La Cachette front view</b></font><br>A lovely, well appointed cottage that sleeps 4, with a UNESCO world heritage site in the quiet village; a perfect place to explore the beautiful chateaux and countryside of the Loire.]]></copy>
+    </image>
+  </gallery>
+</content>

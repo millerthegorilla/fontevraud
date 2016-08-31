@@ -1,0 +1,31 @@
+<!-- EIS 500 HOLDING PAGE v0.001 start -->
+<html>
+<head>
+<title><!--#echo var="SERVER_NAME" -->: 500: Internal Server Error</title>
+</head>
+<style>
+html, body, td, tr, th {
+	background-color: white;
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 10px;
+}
+
+th {
+	font-weight: bold;
+}
+</style>
+<body>
+<table border="0" cellspacing="1" cellpadding="1">
+<tr>
+	<td valign="top" align="center">
+		<img src="images/noflash/logo.png">
+		
+		<p><h1>500: Internal Server Error</h1></p>
+
+		<p>Sorry, the page you requested is not currently available. This is because the server has encountered a problem while creating the page for you.  Try clicking <a href="http://www.sunshadeblinds.je">here</a> to return to the main page.</p>
+
+	</td>
+</tr>
+</table>
+</body>
+</html>
